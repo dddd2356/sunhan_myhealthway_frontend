@@ -1,0 +1,1 @@
+export type ClncFlag = 0 | 1 | 2;
